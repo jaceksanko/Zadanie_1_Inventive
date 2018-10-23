@@ -1,0 +1,10 @@
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+  height: 100vh;
+  -ms-flex-align: center;
+      align-items: center;
+}
+/*# sourceMappingURL=style.css.map */
